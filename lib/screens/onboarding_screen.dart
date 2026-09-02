@@ -3,8 +3,8 @@ import 'package:hotel_booking_app/config/app_style.dart';
 import 'package:hotel_booking_app/config/constants/app_dimensions.dart';
 import 'package:hotel_booking_app/data/models/onboarding_item.dart';
 
-import '../../config/constants/app_strings.dart';
-import '../../config/utils/context_utils.dart';
+import '../config/constants/app_strings.dart';
+import '../config/utils/context_utils.dart';
 import '../widgets/onboarding_view.dart';
 
 class OnboardingScreen extends StatefulWidget {

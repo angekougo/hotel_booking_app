@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../../config/app_style.dart';
-import '../../config/constants/app_dimensions.dart';
+import '../config/app_style.dart';
+import '../config/constants/app_dimensions.dart';
 
 class FormTitle extends StatelessWidget {
   final String title;

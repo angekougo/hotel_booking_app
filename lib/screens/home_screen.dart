@@ -5,11 +5,11 @@ import 'package:hotel_booking_app/config/constants/app_images.dart';
 import 'package:hotel_booking_app/config/constants/app_strings.dart';
 import 'package:hotel_booking_app/config/utils/context_utils.dart';
 import 'package:hotel_booking_app/data/models/room.dart';
-import 'package:hotel_booking_app/ui/widgets/custom_card_for_vertical_list.dart';
-import 'package:hotel_booking_app/ui/widgets/custom_horizontal_inkwell_carrousel.dart';
-import 'package:hotel_booking_app/ui/widgets/home_section_title.dart';
+import 'package:hotel_booking_app/widgets/custom_card_for_vertical_list.dart';
+import 'package:hotel_booking_app/widgets/custom_horizontal_inkwell_carrousel.dart';
+import 'package:hotel_booking_app/widgets/home_section_title.dart';
 
-import '../../data/mocks/mock_data.dart';
+import '../data/mocks/mock_data.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});

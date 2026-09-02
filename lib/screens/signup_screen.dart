@@ -4,10 +4,10 @@ import 'package:go_router/go_router.dart';
 import 'package:hotel_booking_app/config/app_style.dart';
 import 'package:hotel_booking_app/config/constants/app_breakpoints.dart';
 import 'package:hotel_booking_app/config/utils/context_utils.dart';
-import 'package:hotel_booking_app/ui/widgets/custom_text_form_field.dart';
+import 'package:hotel_booking_app/widgets/custom_text_form_field.dart';
 
-import '../../config/constants/app_dimensions.dart';
-import '../../config/constants/app_strings.dart';
+import '../config/constants/app_dimensions.dart';
+import '../config/constants/app_strings.dart';
 import '../widgets/form_title.dart';
 
 class SignupScreen extends StatefulWidget {

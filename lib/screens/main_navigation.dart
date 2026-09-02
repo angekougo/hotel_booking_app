@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:hotel_booking_app/ui/screens/home_screen.dart';
-import 'package:hotel_booking_app/ui/screens/search_screen.dart';
+import 'package:hotel_booking_app/screens/home_screen.dart';
+import 'package:hotel_booking_app/screens/search_screen.dart';
 
-import '../../config/constants/app_strings.dart';
+import '../config/constants/app_strings.dart';
 
 class MainNavigation extends StatefulWidget {
 
